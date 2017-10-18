@@ -1,1 +1,1 @@
-var playlist = {playlist: 'hello'};
+var objects = {playlist: 'hello'};
